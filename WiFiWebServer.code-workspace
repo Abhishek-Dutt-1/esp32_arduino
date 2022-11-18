@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "WiFiWebServer"
+		},
+		{
+			"name": "ESP32HelloWorld",
+			"path": "HelloWorld/ESP32HelloWorld"
+		},
+		{
+			"name": "WiFiConnector",
+			"path": "WiFiConnector"
+		}
+	],
+	"settings": {}
+}
